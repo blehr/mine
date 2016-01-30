@@ -93,11 +93,10 @@ hr.divider {
 
 @media (max-width: 767px) {
   .col-2 {
-    display: none;
     text-align: center;
   }
-  .header-social-icons img {
-    /*width: 24px;*/
+  header .genericon {
+    font-size: 36px;
   }
 }
 
