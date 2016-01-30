@@ -597,6 +597,7 @@ ul .children {
 }
 img {
   max-width: 100%;
+  height: auto;
 }
 
 .featured-img-container {
