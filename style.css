@@ -256,6 +256,10 @@ button.navbar-toggle {
   #bs-example-navbar-collapse-1 ul:first-of-type {
     overflow-x: hidden;
   }
+  .navbar-brand-text {
+    font-size: 90%;
+    font-style: italic;
+  }
 }
 
 
