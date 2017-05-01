@@ -1,16 +1,16 @@
-#Mine WordPress Theme
+# Mine WordPress Theme
 
 built off of Bootstrap and Underscores
 
-##Header
+## Header
 two column header with right-side widget
 
-![](https://dl.dropboxusercontent.com/u/21809793/mine-screenshot.png)
+![](https://dl.dropboxusercontent.com/s/iuv448s3rvzvab2/mine-screenshot.png?dl=0)
 
-##comments
+## comments
 
-![](https://dl.dropboxusercontent.com/u/21809793/mine-comments-post.png)
+![](https://dl.dropboxusercontent.com/s/euwu47jwuxrm4zb/mine-comments-post.png?dl=0)
 
-##Mobile ready responsive
+## Mobile ready responsive
 
-![](https://dl.dropboxusercontent.com/u/21809793/mine-mobile.png)
+![](https://dl.dropboxusercontent.com/s/7xgttpehzq65lxd/mine-mobile.png?dl=0)
